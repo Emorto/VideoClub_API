@@ -1,5 +1,5 @@
 using VideoClub_API.Domain.Entities;
-namespace src.VideoClub_API.Business.Persistence;
+namespace VideoClub_API.Business.Persistence;
 
 public interface ICategoriaRepository
 {
