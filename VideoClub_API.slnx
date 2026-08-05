@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VideoClub_API.Business/VideoClub_API.Business.csproj" />
+    <Project Path="src/VideoClub_API.Domain/VideoClub_API.Domain.csproj" />
+    <Project Path="src/VideoClub_API.Host/VideoClub_API.Host.csproj" />
+    <Project Path="src/VideoClub_API.Persistence/VideoClub_API.Persistence.csproj" />
+  </Folder>
+</Solution>
